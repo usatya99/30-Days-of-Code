@@ -1,2 +1,3 @@
 # 30-Days-of-Code
-codes of hackerrank..!
+# Codes of HACKERRANK..!
+# All the Solutions will be in PYTHON LANGUAGE..!
