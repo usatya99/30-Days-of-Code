@@ -1,0 +1,14 @@
+t=int(input())
+d={}
+for _ in range(t):
+    str1,n=(map(str,input().split()))
+    d[str1]=n
+try:
+    while(True):
+        f=input()
+        if f in d:
+            print(f+'='+d[f])
+        else:
+            print('Not found')
+except EOFError:
+    pass
